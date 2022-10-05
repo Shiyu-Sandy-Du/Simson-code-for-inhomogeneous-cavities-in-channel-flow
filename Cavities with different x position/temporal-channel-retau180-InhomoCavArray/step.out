@@ -1,0 +1,40 @@
+ ** Finished **
+ Executed with        : bla1D parallel MPI
+ Time now             :       10.000000000
+ Started with         :        0.000000000
+ Delta                :       10.000000000
+ Iterations           :   8836
+ Started              : 05-OCT-2022 14:46:43
+ Ended                : 05-OCT-2022 14:47:06
+
+ Total CPU time       :   22.222372999999997       seconds
+ Total wallclock time :   22.437999963760376       seconds
+ Average time step    :   1.0040289678957840E-002
+
+ Compiled for         :   4 processors
+                      :   1 threads
+ Running on           :   1 OMP processors
+ Running on           :   4 MPI processors
+ Running with max.    :   1 OMP threads
+
+                        wall time            CPU time   Wall time per it.
+ LES        :           0.01099980          0.00902400          0.00000498
+ tau_ij     :           0.00799990          0.00899400          0.00000362
+ statistics :           0.00799978          0.00895800          0.00000362
+ nonlin     :          15.22399783         15.23760600          0.00689181
+  -tcom     :           5.04999614          5.10296100          0.00228610
+  -tser     :          10.07800162         10.02802100          0.00456225
+ particles  :           0.00699997          0.00869900          0.00000317
+ linear     :           6.65000272          6.62962400          0.00301041
+ IO         :           0.07699978          0.06833800          0.00003486
+ trip       :           0.00500000          0.00899100          0.00000226
+ ffun+mhd   :           0.00200009          0.00901100          0.00000091
+ CFL        :           0.04799962          0.04705300          0.00002173
+ planes     :           0.01499987          0.01018700          0.00000679
+ press      :           0.01100028          0.01855700          0.00000498
+ rest       :           0.11300027          0.11290800          0.00005115
+ startup    :           0.25500000          0.04051100
+ shutdown   :           0.00400007          0.00391200
+ sum        :          22.43799996         22.22237300          0.01004029
+
+ par. eff.  :           0.76474371
