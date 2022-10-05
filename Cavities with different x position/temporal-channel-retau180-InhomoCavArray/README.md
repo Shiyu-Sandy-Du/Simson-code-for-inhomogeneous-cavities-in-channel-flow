@@ -7,11 +7,11 @@ depth of the cavity
 
 number of cavities
 
-x position of the center of the cavity [as an arry]
+x position of the center of the cavity [as an array]
 
 length in x-direction of the cavity
 
-z positions of the center of the cavity [as an arry]
+z positions of the center of the cavity [as an array]
 
 width in x-direction of the cavity
 
